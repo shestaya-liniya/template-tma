@@ -1,6 +1,6 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "maison-retouche-server",
+	"name": "tma-template-server",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-05-05"
 }
