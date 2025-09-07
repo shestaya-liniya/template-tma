@@ -1,4 +1,4 @@
-# TMA Template
+# Template TMA
 Telegram mini app starter
 
 ### Stack
