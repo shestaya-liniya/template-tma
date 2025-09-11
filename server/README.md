@@ -11,3 +11,9 @@ To run:
 ```bash
 bun run dev
 ```
+
+To deploy:
+
+```bash
+wrangler deploy
+```

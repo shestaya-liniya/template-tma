@@ -1,8 +1,8 @@
-import { hello } from '../api/hello/controller'
+import { helloController } from '../../api/hello/controller'
 import { router } from '.'
 
 export const appRouter = router({
-	hello,
+	helloController,
 })
 
 export type AppRouter = typeof appRouter
